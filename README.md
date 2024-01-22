@@ -1,4 +1,4 @@
-# Data_Science_Portfolio-New
+# Data_Science_Portfolio
 Welcome to my Data Science Portfolio! This repository showcases a variety of projects where I apply data science techniques to solve real-world problems. Here, you'll find projects ranging from exploratory data analysis to complex machine learning models. Each project is documented with detailed Jupyter notebooks, providing insights into my analytical approach and coding skills.
 
 Key Features:
